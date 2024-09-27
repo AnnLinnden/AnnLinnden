@@ -1,6 +1,9 @@
 ## Привет, меня зовут Анна, и я начинающий python-разработчик 👋
+
 Стек: Python, Aiogram, Redis, Docker, SQLAlchemy, FastAPI, Flask, Django.
+
 Всегда готова зайти в opensource-проекты, которым пригодилась бы помощь профессионального редактора + начинающего питониста =)
+
 Если захотите связаться со мной, [пишите в Telegram](https://t.me/AnnLinnden).
 <!--
 **AnnLinnden/AnnLinnden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
